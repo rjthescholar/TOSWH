@@ -11,7 +11,7 @@ Email: rjthescholar@gmail.com
 Credit
 -------
 
-I followed Poncho's x86\_64 tutorial on making an operating system: https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ&t=0s. I used gnu-efi as well.
+I followed Poncho's x86\_64 tutorial on making an operating system: https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ&t=0s. Using his gnu-efi, kernel, and OVMFbin repos as well.
 
 Licence
 -------
